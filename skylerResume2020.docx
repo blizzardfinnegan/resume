@@ -1,70 +1,70 @@
-{\rtf1\ansi\deff4\adeflang1025
-{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}{\f1\froman\fprq2\fcharset2 Symbol;}{\f2\fswiss\fprq2\fcharset0 Arial;}{\f3\froman\fprq2\fcharset0 DejaVu Serif;}{\f4\fswiss\fprq2\fcharset0 Calibri;}{\f5\froman\fprq2\fcharset0 Georgia;}{\f6\fmodern\fprq1\fcharset0 Courier New;}{\f7\fnil\fprq2\fcharset2 Wingdings;}{\f8\fnil\fprq0\fcharset2 OpenSymbol{\*\falt Arial Unicode MS};}}
-{\colortbl;\red0\green0\blue0;\red0\green0\blue255;\red0\green255\blue255;\red0\green255\blue0;\red255\green0\blue255;\red255\green0\blue0;\red255\green255\blue0;\red255\green255\blue255;\red0\green0\blue128;\red0\green128\blue128;\red0\green128\blue0;\red128\green0\blue128;\red128\green0\blue0;\red128\green128\blue0;\red128\green128\blue128;\red192\green192\blue192;\red5\green99\blue193;}
-{\stylesheet{\s0\snext0\hich\af4\dbch\af4\langfe1033\dbch\af0\afs22\alang1025\ai0\ab0\sl254\slmult1\ql\widctlpar\hyphpar1\aspalpha\faroman\sb0\sa160\ltrpar\scaps0\caps0\cf0\outl0\strike0\loch\f4\fs22\expnd0\expndtw0\lang1033\i0\ulnone\ulc0\b0\kerning0\accnone\charscalex100 Normal;}
+{\rtf1\ansi\deff3\adeflang1025
+{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}{\f1\froman\fprq2\fcharset2 Symbol;}{\f2\fswiss\fprq2\fcharset0 Arial;}{\f3\froman\fprq2\fcharset0 Liberation Serif{\*\falt Times New Roman};}{\f4\fswiss\fprq2\fcharset0 Liberation Sans{\*\falt Arial};}{\f5\froman\fprq2\fcharset0 Calibri;}{\f6\froman\fprq2\fcharset0 Courier New;}{\f7\froman\fprq2\fcharset0 Georgia;}{\f8\fnil\fprq2\fcharset2 Wingdings;}{\f9\fnil\fprq2\fcharset0 DejaVu Sans;}{\f10\fnil\fprq2\fcharset0 Times New Roman;}{\f11\fnil\fprq2\fcharset0 Courier New;}{\f12\fnil\fprq2\fcharset0 Calibri;}{\f13\fnil\fprq2\fcharset0 Georgia;}}
+{\colortbl;\red0\green0\blue0;\red0\green0\blue255;\red0\green255\blue255;\red0\green255\blue0;\red255\green0\blue255;\red255\green0\blue0;\red255\green255\blue0;\red255\green255\blue255;\red0\green0\blue128;\red0\green128\blue128;\red0\green128\blue0;\red128\green0\blue128;\red128\green0\blue0;\red128\green128\blue0;\red128\green128\blue128;\red192\green192\blue192;}
+{\stylesheet{\s0\snext0\dbch\af10\langfe1025\dbch\af12\afs22\ai0\ab0\alang1081\sl252\slmult1\ql\widctlpar\hyphpar1\faroman\sb0\sa160\ltrpar\scaps0\caps0\cf0\outl0\strike0\loch\f5\fs22\expnd0\expndtw0\lang1033\i0\ulnone\ulc0\b0\kerning0\accnone\charscalex100 Normal;}
 {\*\cs15\snext15 Default Paragraph Font;}
-{\*\cs16\sbasedon15\snext16\cf17\ul\ulc0 Hyperlink;}
-{\*\cs17\snext17\hich\af1\loch\f1 WW_CharLFO1LVL1;}
-{\*\cs18\snext18\dbch\af6\loch\f6 WW_CharLFO1LVL2;}
-{\*\cs19\snext19\hich\af7\loch\f7 WW_CharLFO1LVL3;}
-{\*\cs20\snext20\hich\af1\loch\f1 WW_CharLFO1LVL4;}
-{\*\cs21\snext21\dbch\af6\loch\f6 WW_CharLFO1LVL5;}
-{\*\cs22\snext22\hich\af7\loch\f7 WW_CharLFO1LVL6;}
-{\*\cs23\snext23\hich\af1\loch\f1 WW_CharLFO1LVL7;}
-{\*\cs24\snext24\dbch\af6\loch\f6 WW_CharLFO1LVL8;}
-{\*\cs25\snext25\hich\af7\loch\f7 WW_CharLFO1LVL9;}
-{\*\cs26\snext26\hich\af1\loch\f1 WW_CharLFO2LVL1;}
-{\*\cs27\snext27\dbch\af6\loch\f6 WW_CharLFO2LVL2;}
-{\*\cs28\snext28\hich\af7\loch\f7 WW_CharLFO2LVL3;}
-{\*\cs29\snext29\hich\af1\loch\f1 WW_CharLFO2LVL4;}
-{\*\cs30\snext30\dbch\af6\loch\f6 WW_CharLFO2LVL5;}
-{\*\cs31\snext31\hich\af7\loch\f7 WW_CharLFO2LVL6;}
-{\*\cs32\snext32\hich\af1\loch\f1 WW_CharLFO2LVL7;}
-{\*\cs33\snext33\dbch\af6\loch\f6 WW_CharLFO2LVL8;}
-{\*\cs34\snext34\hich\af7\loch\f7 WW_CharLFO2LVL9;}
+{\*\cs16\sbasedon15\snext16\langfe255\cf9\lang255\ul\ulc0 Internet Link;}
+{\*\cs17\snext17\dbch\af11\loch\f6 WW_CharLFO1LVL2;}
+{\*\cs18\snext18\dbch\af11\loch\f6 WW_CharLFO1LVL5;}
+{\*\cs19\snext19\dbch\af11\loch\f6 WW_CharLFO1LVL8;}
+{\*\cs20\snext20\dbch\af11\loch\f6 WW_CharLFO2LVL2;}
+{\*\cs21\snext21\dbch\af11\loch\f6 WW_CharLFO2LVL5;}
+{\*\cs22\snext22\dbch\af11\loch\f6 WW_CharLFO2LVL8;}
+{\*\cs23\snext23\dbch\af11\loch\f6 WW_CharLFO3LVL2;}
+{\*\cs24\snext24\dbch\af11\loch\f6 WW_CharLFO3LVL5;}
+{\*\cs25\snext25\dbch\af11\loch\f6 WW_CharLFO3LVL8;}
+{\*\cs26\snext26\dbch\af11 ListLabel 1;}
+{\*\cs27\snext27\dbch\af11 ListLabel 2;}
+{\*\cs28\snext28\dbch\af11 ListLabel 3;}
+{\*\cs29\snext29\dbch\af11 ListLabel 4;}
+{\*\cs30\snext30\dbch\af11 ListLabel 5;}
+{\*\cs31\snext31\dbch\af11 ListLabel 6;}
+{\*\cs32\snext32\dbch\af11 ListLabel 7;}
+{\*\cs33\snext33\dbch\af11 ListLabel 8;}
+{\*\cs34\snext34\dbch\af11 ListLabel 9;}
 {\*\cs35\snext35\hich\af1\loch\f1 WW_CharLFO3LVL1;}
-{\*\cs36\snext36\dbch\af6\loch\f6 WW_CharLFO3LVL2;}
-{\*\cs37\snext37\hich\af7\loch\f7 WW_CharLFO3LVL3;}
-{\*\cs38\snext38\hich\af1\loch\f1 WW_CharLFO3LVL4;}
-{\*\cs39\snext39\dbch\af6\loch\f6 WW_CharLFO3LVL5;}
-{\*\cs40\snext40\hich\af7\loch\f7 WW_CharLFO3LVL6;}
-{\*\cs41\snext41\hich\af1\loch\f1 WW_CharLFO3LVL7;}
-{\*\cs42\snext42\dbch\af6\loch\f6 WW_CharLFO3LVL8;}
-{\*\cs43\snext43\hich\af7\loch\f7 WW_CharLFO3LVL9;}
-{\*\cs44\snext44\langfe255\alang255\cf9\lang255\ul\ulc0 Hyperlink;}
-{\*\cs45\snext45\dbch\af8\dbch\af8\loch\f8 Bullets;}
-{\s46\snext46\hich\af4\dbch\af4\langfe1033\dbch\af0\afs22\alang1025\ai0\ab0\sl252\slmult1\hyphpar0\ql\widctlpar\aspalpha\faroman\sb0\sa160\ltrpar\scaps0\caps0\cf0\outl0\strike0\loch\f4\fs22\expnd0\expndtw0\lang1033\i0\ulnone\ulc0\b0\kerning0\accnone\charscalex100 LO-Normal;}
-{\s47\sbasedon46\snext47\sl252\slmult1\hyphpar0\li720\ri0\lin720\rin0\fi0 List Paragraph;}
+{\*\cs36\snext36\hich\af8\loch\f8 WW_CharLFO3LVL3;}
+{\*\cs37\snext37\hich\af1\loch\f1 WW_CharLFO3LVL4;}
+{\*\cs38\snext38\hich\af8\loch\f8 WW_CharLFO3LVL6;}
+{\*\cs39\snext39\hich\af1\loch\f1 WW_CharLFO3LVL7;}
+{\*\cs40\snext40\hich\af8\loch\f8 WW_CharLFO3LVL9;}
+{\s41\sbasedon0\snext42\dbch\af9\langfe1025\dbch\af9\afs28\ai0\ab0\sl252\slmult1\ql\widctlpar\hyphpar1\faroman\sb240\sa120\keepn\ltrpar\scaps0\caps0\cf0\outl0\strike0\loch\f4\fs28\expnd0\expndtw0\lang1033\i0\ulnone\ulc0\b0\kerning0\accnone\charscalex100 Heading;}
+{\s42\sbasedon0\snext42\dbch\af10\langfe1025\dbch\af12\afs22\ai0\ab0\sl276\slmult1\ql\widctlpar\hyphpar1\faroman\sb0\sa140\ltrpar\scaps0\caps0\cf0\outl0\strike0\loch\f5\fs22\expnd0\expndtw0\lang1033\i0\ulnone\ulc0\b0\kerning0\accnone\charscalex100 Text Body;}
+{\s43\sbasedon42\snext43\dbch\af10\langfe1025\dbch\af12\afs22\ai0\ab0\sl276\slmult1\ql\widctlpar\hyphpar1\faroman\sb0\sa140\ltrpar\scaps0\caps0\cf0\outl0\strike0\loch\f5\fs22\expnd0\expndtw0\lang1033\i0\ulnone\ulc0\b0\kerning0\accnone\charscalex100 List;}
+{\s44\sbasedon0\snext44\dbch\af10\langfe1025\dbch\af12\afs24\ai\ab0\sl252\slmult1\ql\widctlpar\hyphpar1\faroman\sb120\sa120\noline\ltrpar\scaps0\caps0\cf0\outl0\strike0\loch\f5\fs24\expnd0\expndtw0\lang1033\i\ulnone\ulc0\b0\kerning0\accnone\charscalex100 Caption;}
+{\s45\sbasedon0\snext45\dbch\af10\langfe1025\dbch\af12\afs22\ai0\ab0\sl252\slmult1\ql\widctlpar\hyphpar1\faroman\sb0\sa160\noline\ltrpar\scaps0\caps0\cf0\outl0\strike0\loch\f5\fs22\expnd0\expndtw0\lang1033\i0\ulnone\ulc0\b0\kerning0\accnone\charscalex100 Index;}
+{\s46\snext46\dbch\af10\langfe1025\dbch\af12\afs22\ai0\ab0\alang1081\sl252\slmult1\ql\widctlpar\hyphpar0\faroman\sb0\sa160\ltrpar\scaps0\caps0\cf0\outl0\strike0\loch\f5\fs22\expnd0\expndtw0\lang1033\i0\ulnone\ulc0\b0\kerning0\accnone\charscalex100 LO-Normal;}
+{\s47\sbasedon46\snext47\dbch\af10\langfe1025\dbch\af12\afs22\ai0\ab0\sl-252\slmult0\ql\widctlpar\hyphpar0\faroman\li720\ri0\lin720\rin0\fi0\sb0\sa0\ltrpar\scaps0\caps0\cf0\outl0\strike0\loch\f5\fs22\expnd0\expndtw0\lang1033\i0\ulnone\ulc0\b0\kerning0\accnone\charscalex100 List Paragraph;}
 }{\*\listtable{\list\listtemplateid1
-{\listlevel\levelnfc23\leveljc0\levelstartat1\levelfollow0{\leveltext \'01\u61623 ?;}{\levelnumbers;}\f1\fi-360\li360}
-{\listlevel\levelnfc23\leveljc0\levelstartat1\levelfollow0{\leveltext \'01\u111 ?;}{\levelnumbers;}\f6\rtlch\dbch\af6 \ltrch\loch\fi-360\li1080}
-{\listlevel\levelnfc23\leveljc0\levelstartat1\levelfollow0{\leveltext \'01\u61607 ?;}{\levelnumbers;}\f7\fi-360\li1800}
-{\listlevel\levelnfc23\leveljc0\levelstartat1\levelfollow0{\leveltext \'01\u61623 ?;}{\levelnumbers;}\f1\fi-360\li2520}
-{\listlevel\levelnfc23\leveljc0\levelstartat1\levelfollow0{\leveltext \'01\u111 ?;}{\levelnumbers;}\f6\rtlch\dbch\af6 \ltrch\loch\fi-360\li3240}
-{\listlevel\levelnfc23\leveljc0\levelstartat1\levelfollow0{\leveltext \'01\u61607 ?;}{\levelnumbers;}\f7\fi-360\li3960}
-{\listlevel\levelnfc23\leveljc0\levelstartat1\levelfollow0{\leveltext \'01\u61623 ?;}{\levelnumbers;}\f1\fi-360\li4680}
-{\listlevel\levelnfc23\leveljc0\levelstartat1\levelfollow0{\leveltext \'01\u111 ?;}{\levelnumbers;}\f6\rtlch\dbch\af6 \ltrch\loch\fi-360\li5400}
-{\listlevel\levelnfc23\leveljc0\levelstartat1\levelfollow0{\leveltext \'01\u61607 ?;}{\levelnumbers;}\f7\fi-360\li6120}\listid1}
+{\listlevel\levelnfc23\leveljc0\levelstartat1\levelfollow0{\leveltext \'01\u61623 ?;}{\levelnumbers;}\f14\fi-360\li360}
+{\listlevel\levelnfc23\leveljc0\levelstartat1\levelfollow0{\leveltext \'01\u111 ?;}{\levelnumbers;}\f15\fi-360\li1080}
+{\listlevel\levelnfc23\leveljc0\levelstartat1\levelfollow0{\leveltext \'01\u61607 ?;}{\levelnumbers;}\f16\fi-360\li1800}
+{\listlevel\levelnfc23\leveljc0\levelstartat1\levelfollow0{\leveltext \'01\u61623 ?;}{\levelnumbers;}\f14\fi-360\li2520}
+{\listlevel\levelnfc23\leveljc0\levelstartat1\levelfollow0{\leveltext \'01\u111 ?;}{\levelnumbers;}\f15\fi-360\li3240}
+{\listlevel\levelnfc23\leveljc0\levelstartat1\levelfollow0{\leveltext \'01\u61607 ?;}{\levelnumbers;}\f16\fi-360\li3960}
+{\listlevel\levelnfc23\leveljc0\levelstartat1\levelfollow0{\leveltext \'01\u61623 ?;}{\levelnumbers;}\f14\fi-360\li4680}
+{\listlevel\levelnfc23\leveljc0\levelstartat1\levelfollow0{\leveltext \'01\u111 ?;}{\levelnumbers;}\f15\fi-360\li5400}
+{\listlevel\levelnfc23\leveljc0\levelstartat1\levelfollow0{\leveltext \'01\u61607 ?;}{\levelnumbers;}\f16\fi-360\li6120}\listid1}
 {\list\listtemplateid2
-{\listlevel\levelnfc23\leveljc0\levelstartat1\levelfollow0{\leveltext \'01\u61623 ?;}{\levelnumbers;}\f1\fi-360\li360}
-{\listlevel\levelnfc23\leveljc0\levelstartat1\levelfollow0{\leveltext \'01\u111 ?;}{\levelnumbers;}\f6\rtlch\dbch\af6 \ltrch\loch\fi-360\li1080}
-{\listlevel\levelnfc23\leveljc0\levelstartat1\levelfollow0{\leveltext \'01\u61607 ?;}{\levelnumbers;}\f7\fi-360\li1800}
-{\listlevel\levelnfc23\leveljc0\levelstartat1\levelfollow0{\leveltext \'01\u61623 ?;}{\levelnumbers;}\f1\fi-360\li2520}
-{\listlevel\levelnfc23\leveljc0\levelstartat1\levelfollow0{\leveltext \'01\u111 ?;}{\levelnumbers;}\f6\rtlch\dbch\af6 \ltrch\loch\fi-360\li3240}
-{\listlevel\levelnfc23\leveljc0\levelstartat1\levelfollow0{\leveltext \'01\u61607 ?;}{\levelnumbers;}\f7\fi-360\li3960}
-{\listlevel\levelnfc23\leveljc0\levelstartat1\levelfollow0{\leveltext \'01\u61623 ?;}{\levelnumbers;}\f1\fi-360\li4680}
-{\listlevel\levelnfc23\leveljc0\levelstartat1\levelfollow0{\leveltext \'01\u111 ?;}{\levelnumbers;}\f6\rtlch\dbch\af6 \ltrch\loch\fi-360\li5400}
-{\listlevel\levelnfc23\leveljc0\levelstartat1\levelfollow0{\leveltext \'01\u61607 ?;}{\levelnumbers;}\f7\fi-360\li6120}\listid2}
+{\listlevel\levelnfc23\leveljc0\levelstartat1\levelfollow0{\leveltext \'01\u61623 ?;}{\levelnumbers;}\f14\fi-360\li360}
+{\listlevel\levelnfc23\leveljc0\levelstartat1\levelfollow0{\leveltext \'01\u111 ?;}{\levelnumbers;}\f15\fi-360\li1080}
+{\listlevel\levelnfc23\leveljc0\levelstartat1\levelfollow0{\leveltext \'01\u61607 ?;}{\levelnumbers;}\f16\fi-360\li1800}
+{\listlevel\levelnfc23\leveljc0\levelstartat1\levelfollow0{\leveltext \'01\u61623 ?;}{\levelnumbers;}\f14\fi-360\li2520}
+{\listlevel\levelnfc23\leveljc0\levelstartat1\levelfollow0{\leveltext \'01\u111 ?;}{\levelnumbers;}\f15\fi-360\li3240}
+{\listlevel\levelnfc23\leveljc0\levelstartat1\levelfollow0{\leveltext \'01\u61607 ?;}{\levelnumbers;}\f16\fi-360\li3960}
+{\listlevel\levelnfc23\leveljc0\levelstartat1\levelfollow0{\leveltext \'01\u61623 ?;}{\levelnumbers;}\f14\fi-360\li4680}
+{\listlevel\levelnfc23\leveljc0\levelstartat1\levelfollow0{\leveltext \'01\u111 ?;}{\levelnumbers;}\f15\fi-360\li5400}
+{\listlevel\levelnfc23\leveljc0\levelstartat1\levelfollow0{\leveltext \'01\u61607 ?;}{\levelnumbers;}\f16\fi-360\li6120}\listid2}
 {\list\listtemplateid3
-{\listlevel\levelnfc23\leveljc0\levelstartat1\levelfollow0{\leveltext \'01\u61623 ?;}{\levelnumbers;}\f1\fi-360\li360}
-{\listlevel\levelnfc23\leveljc0\levelstartat1\levelfollow0{\leveltext \'01\u111 ?;}{\levelnumbers;}\f6\rtlch\dbch\af6 \ltrch\loch\fi-360\li1080}
-{\listlevel\levelnfc23\leveljc0\levelstartat1\levelfollow0{\leveltext \'01\u61607 ?;}{\levelnumbers;}\f7\fi-360\li1800}
-{\listlevel\levelnfc23\leveljc0\levelstartat1\levelfollow0{\leveltext \'01\u61623 ?;}{\levelnumbers;}\f1\fi-360\li2520}
-{\listlevel\levelnfc23\leveljc0\levelstartat1\levelfollow0{\leveltext \'01\u111 ?;}{\levelnumbers;}\f6\rtlch\dbch\af6 \ltrch\loch\fi-360\li3240}
-{\listlevel\levelnfc23\leveljc0\levelstartat1\levelfollow0{\leveltext \'01\u61607 ?;}{\levelnumbers;}\f7\fi-360\li3960}
-{\listlevel\levelnfc23\leveljc0\levelstartat1\levelfollow0{\leveltext \'01\u61623 ?;}{\levelnumbers;}\f1\fi-360\li4680}
-{\listlevel\levelnfc23\leveljc0\levelstartat1\levelfollow0{\leveltext \'01\u111 ?;}{\levelnumbers;}\f6\rtlch\dbch\af6 \ltrch\loch\fi-360\li5400}
-{\listlevel\levelnfc23\leveljc0\levelstartat1\levelfollow0{\leveltext \'01\u61607 ?;}{\levelnumbers;}\f7\fi-360\li6120}\listid3}
+{\listlevel\levelnfc23\leveljc0\levelstartat1\levelfollow0{\leveltext \'01\u61623 ?;}{\levelnumbers;}\f14\fi-360\li360}
+{\listlevel\levelnfc23\leveljc0\levelstartat1\levelfollow0{\leveltext \'01\u111 ?;}{\levelnumbers;}\f15\fi-360\li1080}
+{\listlevel\levelnfc23\leveljc0\levelstartat1\levelfollow0{\leveltext \'01\u61607 ?;}{\levelnumbers;}\f16\fi-360\li1800}
+{\listlevel\levelnfc23\leveljc0\levelstartat1\levelfollow0{\leveltext \'01\u61623 ?;}{\levelnumbers;}\f14\fi-360\li2520}
+{\listlevel\levelnfc23\leveljc0\levelstartat1\levelfollow0{\leveltext \'01\u111 ?;}{\levelnumbers;}\f15\fi-360\li3240}
+{\listlevel\levelnfc23\leveljc0\levelstartat1\levelfollow0{\leveltext \'01\u61607 ?;}{\levelnumbers;}\f16\fi-360\li3960}
+{\listlevel\levelnfc23\leveljc0\levelstartat1\levelfollow0{\leveltext \'01\u61623 ?;}{\levelnumbers;}\f14\fi-360\li4680}
+{\listlevel\levelnfc23\leveljc0\levelstartat1\levelfollow0{\leveltext \'01\u111 ?;}{\levelnumbers;}\f15\fi-360\li5400}
+{\listlevel\levelnfc23\leveljc0\levelstartat1\levelfollow0{\leveltext \'01\u61607 ?;}{\levelnumbers;}\f16\fi-360\li6120}\listid3}
 {\list\listtemplateid4
 {\listlevel\levelnfc255\leveljc0\levelstartat1\levelfollow2{\leveltext \'00;}{\levelnumbers;}\fi0\li0}
 {\listlevel\levelnfc255\leveljc0\levelstartat1\levelfollow2{\leveltext \'00;}{\levelnumbers;}\fi0\li0}
@@ -75,76 +75,76 @@
 {\listlevel\levelnfc255\leveljc0\levelstartat1\levelfollow2{\leveltext \'00;}{\levelnumbers;}\fi0\li0}
 {\listlevel\levelnfc255\leveljc0\levelstartat1\levelfollow2{\leveltext \'00;}{\levelnumbers;}\fi0\li0}
 {\listlevel\levelnfc255\leveljc0\levelstartat1\levelfollow2{\leveltext \'00;}{\levelnumbers;}\fi0\li0}\listid4}
-}{\listoverridetable{\listoverride\listid1\listoverridecount0\ls1}{\listoverride\listid2\listoverridecount0\ls2}{\listoverride\listid3\listoverridecount0\ls3}{\listoverride\listid4\listoverridecount0\ls4}}{\*\generator LibreOffice/6.4.0.3$Linux_X86_64 LibreOffice_project/40$Build-3}{\info{\author Skyler MacDougall}{\creatim\yr2020\mo1\dy7\hr22\min46}{\author Skyler MacDougall}{\revtim\yr2020\mo2\dy19\hr14\min37}{\printim\yr0\mo0\dy0\hr0\min0}}{\*\userprops}\deftab720\deftab720
-
+}{\listoverridetable{\listoverride\listid1\listoverridecount0\ls1}{\listoverride\listid2\listoverridecount0\ls2}{\listoverride\listid3\listoverridecount0\ls3}{\listoverride\listid4\listoverridecount0\ls4}}{\*\generator LibreOffice/6.3.6.2$Linux_X86_64 LibreOffice_project/30$Build-2}{\info{\author Skyler MacDougall}{\creatim\yr2020\mo1\dy7\hr22\min46}{\revtim\yr2020\mo7\dy21\hr2\min39}{\printim\yr0\mo0\dy0\hr0\min0}}{\*\userprops}\deftab720\deftab720
+\hyphauto1\viewscale100
 {\*\pgdsctbl
-{\pgdsc0\pgdscuse451\pgwsxn12240\pghsxn15840\marglsxn1134\margrsxn1134\margtsxn1134\margbsxn1134\pgdscnxt0 Default Style;}
-{\pgdsc1\pgdscuse451\pgndec\pgwsxn12240\pghsxn15840\marglsxn1440\margrsxn1440\margtsxn1440\margbsxn1440\pgdscnxt1 MP0;}}
-\formshade{\*\pgdscno1}\paperh15840\paperw12240\margl1440\margr1440\margt1440\margb1440\sectd\sbknone\sectunlocked1\pgndec\pgwsxn12240\pghsxn15840\marglsxn1440\margrsxn1440\margtsxn1440\margbsxn1440\ftnbj\ftnstart1\ftnrstcont\ftnnar\aenddoc\aftnrstcont\aftnstart1\aftnnrlc
-{\*\ftnsep\chftnsep}\pgndec\pard\plain \s46\hich\af4\dbch\af4\langfe1033\dbch\af0\afs22\alang1025\ai0\ab0\sl252\slmult1\hyphpar0\ql\widctlpar\aspalpha\faroman\sb0\sa160\ltrpar\scaps0\caps0\cf0\outl0\strike0\loch\f4\fs22\expnd0\expndtw0\lang1033\i0\ulnone\ulc0\b0\kerning0\accnone\charscalex100\pagebb\sl240\slmult1{\rtlch\afs36\ab\hich\af5 \ltrch\fs36\b\loch\f5\loch
+{\pgdsc0\pgdscuse451\pgwsxn12240\pghsxn15840\marglsxn1440\margrsxn1440\margtsxn1440\margbsxn1440\pgdscnxt0 Default Style;}}
+\formshade{\*\pgdscno0}\paperh15840\paperw12240\margl1440\margr1440\margt1440\margb1440\sectd\sbknone\sectunlocked1\pgndec\pgwsxn12240\pghsxn15840\marglsxn1440\margrsxn1440\margtsxn1440\margbsxn1440\ftnbj\ftnstart1\ftnrstcont\ftnnar\aenddoc\aftnrstcont\aftnstart1\aftnnrlc
+{\*\ftnsep\chftnsep}\pgndec\pard\plain \s46\dbch\af10\langfe1025\dbch\af12\afs22\ai0\ab0\alang1081\sl252\slmult1\ql\widctlpar\hyphpar0\faroman\sb0\sa160\ltrpar\scaps0\caps0\cf0\outl0\strike0\loch\f5\fs22\expnd0\expndtw0\lang1033\i0\ulnone\ulc0\b0\kerning0\accnone\charscalex100\pagebb\sl240\slmult1{\rtlch\dbch\af13\afs36\ab\hich\af7 \ltrch\fs36\b\loch\f7\loch
 Skyler MacDougall}
-\par \pard\plain \s46\hich\af4\dbch\af4\langfe1033\dbch\af0\afs22\alang1025\ai0\ab0\sl252\slmult1\hyphpar0\ql\widctlpar\aspalpha\faroman\sb0\sa160\ltrpar\scaps0\caps0\cf0\outl0\strike0\loch\f4\fs22\expnd0\expndtw0\lang1033\i0\ulnone\ulc0\b0\kerning0\accnone\charscalex100\sl240\slmult1{\rtlch\afs24\hich\af5 \ltrch\cs15\fs24\loch\f5\loch
-415 Weston Lane,Painted Post}{\rtlch\afs24\hich\af5 \ltrch\cs15\fs24\loch\f5\loch
- NY|1(607)738-5933|}{{\field{\*\fldinst HYPERLINK "mailto:skylerfox572@gmail.com" \\t "_top" }{\fldrslt {\rtlch\afs24\hich\af5 \ltrch\langfe255\alang255\cf9\lang255\ul\ulc0\fs24\loch\f5\loch
+\par \pard\plain \s46\dbch\af10\langfe1025\dbch\af12\afs22\ai0\ab0\alang1081\sl252\slmult1\ql\widctlpar\hyphpar0\faroman\sb0\sa160\ltrpar\scaps0\caps0\cf0\outl0\strike0\loch\f5\fs22\expnd0\expndtw0\lang1033\i0\ulnone\ulc0\b0\kerning0\accnone\charscalex100\sl240\slmult1{\rtlch\dbch\af13\afs24\hich\af7 \ltrch\cs15\fs24\loch\f7\loch
+415 Weston Lane,Painted Post NY|1(607)738-5933|}{{\field{\*\fldinst HYPERLINK "mailto:skylerfox572@gmail.com" \\t "_top" }{\fldrslt {\rtlch\langfe255\dbch\af13\afs24\hich\af7 \ltrch\cf9\fs24\lang255\ul\ulc0\loch\f7\loch
 skylerfox572@gmail.com}}}}
-\par \pard\plain \s46\hich\af4\dbch\af4\langfe1033\dbch\af0\afs22\alang1025\ai0\ab0\sl252\slmult1\hyphpar0\ql\widctlpar\aspalpha\faroman\sb0\sa160\ltrpar\scaps0\caps0\cf0\outl0\strike0\loch\f4\fs22\expnd0\expndtw0\lang1033\i0\ulnone\ulc0\b0\kerning0\accnone\charscalex100\sl240\slmult1{\rtlch\afs20\hich\af5 \ltrch\fs20\loch\f5\loch
+\par \pard\plain \s46\dbch\af10\langfe1025\dbch\af12\afs22\ai0\ab0\alang1081\sl252\slmult1\ql\widctlpar\hyphpar0\faroman\sb0\sa160\ltrpar\scaps0\caps0\cf0\outl0\strike0\loch\f5\fs22\expnd0\expndtw0\lang1033\i0\ulnone\ulc0\b0\kerning0\accnone\charscalex100\sl240\slmult1{\rtlch\dbch\af13\afs20\hich\af7 \ltrch\fs20\loch\f7\loch
 Electrical Engineering Technology major at Rochester Institute of Technology. Experienced as a laboratory technician at MACOM. Achieved the rank of Eagle Scout in the Boy Scouts. }
-\par \pard\plain \s46\hich\af4\dbch\af4\langfe1033\dbch\af0\afs22\alang1025\ai0\ab0\sl252\slmult1\hyphpar0\ql\widctlpar\aspalpha\faroman\sb0\sa160\ltrpar\scaps0\caps0\cf0\outl0\strike0\loch\f4\fs22\expnd0\expndtw0\lang1033\i0\ulnone\ulc0\b0\kerning0\accnone\charscalex100\sl240\slmult1\sb240\sa160{\rtlch\afs28\ab\hich\af5 \ltrch\fs28\b\loch\f5\loch
+\par \pard\plain \s46\dbch\af10\langfe1025\dbch\af12\afs22\ai0\ab0\alang1081\sl252\slmult1\ql\widctlpar\hyphpar0\faroman\sb0\sa160\ltrpar\scaps0\caps0\cf0\outl0\strike0\loch\f5\fs22\expnd0\expndtw0\lang1033\i0\ulnone\ulc0\b0\kerning0\accnone\charscalex100\sl240\slmult1\sb240\sa160{\rtlch\dbch\af13\afs28\ab\hich\af7 \ltrch\fs28\b\loch\f7\loch
 Education}
-\par \pard\plain \s46\hich\af4\dbch\af4\langfe1033\dbch\af0\afs22\alang1025\ai0\ab0\sl252\slmult1\hyphpar0\ql\widctlpar\aspalpha\faroman\sb0\sa160\ltrpar\scaps0\caps0\cf0\outl0\strike0\loch\f4\fs22\expnd0\expndtw0\lang1033\i0\ulnone\ulc0\b0\kerning0\accnone\charscalex100\sl240\slmult1{\rtlch\hich\af5 \ltrch\loch\f5\loch
-Rochester Institute of Technology, Henrietta, N}{\rtlch\hich\af5 \ltrch\loch\f5\loch
-Y}{\rtlch\hich\af5 \ltrch\loch\f5\loch
-   Expected Graduation: May 2023}
-\par \pard\plain \s46\hich\af4\dbch\af4\langfe1033\dbch\af0\afs22\alang1025\ai0\ab0\sl252\slmult1\hyphpar0\ql\widctlpar\aspalpha\faroman\sb0\sa160\ltrpar\scaps0\caps0\cf0\outl0\strike0\loch\f4\fs22\expnd0\expndtw0\lang1033\i0\ulnone\ulc0\b0\kerning0\accnone\charscalex100\sl240\slmult1{\rtlch\hich\af5 \ltrch\cs15\loch\f5
-    }{\rtlch\afs20\hich\af5 \ltrch\cs15\fs20\loch\f5\loch
+\par \pard\plain \s46\dbch\af10\langfe1025\dbch\af12\afs22\ai0\ab0\alang1081\sl252\slmult1\ql\widctlpar\hyphpar0\faroman\sb0\sa160\ltrpar\scaps0\caps0\cf0\outl0\strike0\loch\f5\fs22\expnd0\expndtw0\lang1033\i0\ulnone\ulc0\b0\kerning0\accnone\charscalex100\sl240\slmult1{\rtlch\dbch\af13\hich\af7 \ltrch\loch\f7\loch
+Rochester Institute of Technology, Henrietta, NY   Expected Graduation: May 2023}
+\par \pard\plain \s46\dbch\af10\langfe1025\dbch\af12\afs22\ai0\ab0\alang1081\sl252\slmult1\ql\widctlpar\hyphpar0\faroman\sb0\sa160\ltrpar\scaps0\caps0\cf0\outl0\strike0\loch\f5\fs22\expnd0\expndtw0\lang1033\i0\ulnone\ulc0\b0\kerning0\accnone\charscalex100\sl240\slmult1{\rtlch\dbch\af13\hich\af7 \ltrch\cs15\loch\f7
+    }{\rtlch\dbch\af13\afs20\hich\af7 \ltrch\cs15\fs20\loch\f7\loch
 Major: Electrical Engineering Technology, Bachelor of Science}
-\par \pard\plain \s46\hich\af4\dbch\af4\langfe1033\dbch\af0\afs22\alang1025\ai0\ab0\sl252\slmult1\hyphpar0\ql\widctlpar\aspalpha\faroman\sb0\sa160\ltrpar\scaps0\caps0\cf0\outl0\strike0\loch\f4\fs22\expnd0\expndtw0\lang1033\i0\ulnone\ulc0\b0\kerning0\accnone\charscalex100\sl240\slmult1{\rtlch\hich\af5 \ltrch\loch\f5\loch
+\par \pard\plain \s46\dbch\af10\langfe1025\dbch\af12\afs22\ai0\ab0\alang1081\sl252\slmult1\ql\widctlpar\hyphpar0\faroman\sb0\sa160\ltrpar\scaps0\caps0\cf0\outl0\strike0\loch\f5\fs22\expnd0\expndtw0\lang1033\i0\ulnone\ulc0\b0\kerning0\accnone\charscalex100\sl240\slmult1{\rtlch\dbch\af13\hich\af7 \ltrch\loch\f7\loch
 Corning- Painted Post High School, Corning NY                                             Graduation: June 2018}
-\par \pard\plain \s46\hich\af4\dbch\af4\langfe1033\dbch\af0\afs22\alang1025\ai0\ab0\sl252\slmult1\hyphpar0\ql\widctlpar\aspalpha\faroman\sb0\sa160\ltrpar\scaps0\caps0\cf0\outl0\strike0\loch\f4\fs22\expnd0\expndtw0\lang1033\i0\ulnone\ulc0\b0\kerning0\accnone\charscalex100\sl240\slmult1{\rtlch\hich\af5 \ltrch\cs15\loch\f5
-    }{\rtlch\afs20\hich\af5 \ltrch\cs15\fs20\loch\f5\loch
+\par \pard\plain \s46\dbch\af10\langfe1025\dbch\af12\afs22\ai0\ab0\alang1081\sl252\slmult1\ql\widctlpar\hyphpar0\faroman\sb0\sa160\ltrpar\scaps0\caps0\cf0\outl0\strike0\loch\f5\fs22\expnd0\expndtw0\lang1033\i0\ulnone\ulc0\b0\kerning0\accnone\charscalex100\sl240\slmult1{\rtlch\dbch\af13\hich\af7 \ltrch\cs15\loch\f7
+    }{\rtlch\dbch\af13\afs20\hich\af7 \ltrch\cs15\fs20\loch\f7\loch
 Regents Diploma with Honors}
-\par \pard\plain \s46\hich\af4\dbch\af4\langfe1033\dbch\af0\afs22\alang1025\ai0\ab0\sl252\slmult1\hyphpar0\ql\widctlpar\aspalpha\faroman\sb0\sa160\ltrpar\scaps0\caps0\cf0\outl0\strike0\loch\f4\fs22\expnd0\expndtw0\lang1033\i0\ulnone\ulc0\b0\kerning0\accnone\charscalex100\sl240\slmult1\sb240\sa160{\rtlch\afs28\ab\hich\af5 \ltrch\fs28\b\loch\f5\loch
+\par \pard\plain \s46\dbch\af10\langfe1025\dbch\af12\afs22\ai0\ab0\alang1081\sl252\slmult1\ql\widctlpar\hyphpar0\faroman\sb0\sa160\ltrpar\scaps0\caps0\cf0\outl0\strike0\loch\f5\fs22\expnd0\expndtw0\lang1033\i0\ulnone\ulc0\b0\kerning0\accnone\charscalex100\sl240\slmult1\sb240\sa160{\rtlch\dbch\af13\afs28\ab\hich\af7 \ltrch\fs28\b\loch\f7\loch
 Experience}
-\par \pard\plain \s46\hich\af4\dbch\af4\langfe1033\dbch\af0\afs22\alang1025\ai0\ab0\sl252\slmult1\hyphpar0\ql\widctlpar\aspalpha\faroman\sb0\sa160\ltrpar\scaps0\caps0\cf0\outl0\strike0\loch\f4\fs22\expnd0\expndtw0\lang1033\i0\ulnone\ulc0\b0\kerning0\accnone\charscalex100\sl240\slmult1\qj\sb240\sa160{\rtlch\ab\hich\af5 \ltrch\cs15\b\loch\f5\loch
-House of General Science at RIT}{\rtlch\hich\af5 \ltrch\cs15\loch\f5\loch
- (December 2019 - Present)}
-\par \pard\plain \s46\hich\af4\dbch\af4\langfe1033\dbch\af0\afs22\alang1025\ai0\ab0\sl252\slmult1\hyphpar0\ql\widctlpar\aspalpha\faroman\sb0\sa160\ltrpar\scaps0\caps0\cf0\outl0\strike0\loch\f4\fs22\expnd0\expndtw0\lang1033\i0\ulnone\ulc0\b0\kerning0\accnone\charscalex100\sl240\slmult1\qj{\rtlch\afs20\ai\hich\af5 \ltrch\cs15\fs20\i\loch\f5
-    }{\rtlch\afs20\ai\hich\af5 \ltrch\cs15\fs20\i\loch\f5\loch
+\par \pard\plain \s46\dbch\af10\langfe1025\dbch\af12\afs22\ai0\ab0\alang1081\sl252\slmult1\ql\widctlpar\hyphpar0\faroman\sb0\sa160\ltrpar\scaps0\caps0\cf0\outl0\strike0\loch\f5\fs22\expnd0\expndtw0\lang1033\i0\ulnone\ulc0\b0\kerning0\accnone\charscalex100\sl240\slmult1\qj\sb240\sa160{\rtlch\dbch\af13\ab\hich\af7 \ltrch\cs15\b\loch\f7\loch
+House of General Science at RIT}{\rtlch\dbch\af13\hich\af7 \ltrch\cs15\loch\f7\loch
+ (December 2019 \u8211\'96 }{\rtlch\dbch\af10\langfe1025\dbch\af13\afs22\ai0\ab0\hich\af7 \ltrch\cs15\scaps0\caps0\cf0\outl0\strike0\fs22\expnd0\expndtw0\lang1033\i0\ulnone\ulc0\b0\kerning0\accnone\charscalex100\loch\f7\loch
+February 2020}{\rtlch\dbch\af13\hich\af7 \ltrch\cs15\loch\f7\loch
+)}
+\par \pard\plain \s46\dbch\af10\langfe1025\dbch\af12\afs22\ai0\ab0\alang1081\sl252\slmult1\ql\widctlpar\hyphpar0\faroman\sb0\sa160\ltrpar\scaps0\caps0\cf0\outl0\strike0\loch\f5\fs22\expnd0\expndtw0\lang1033\i0\ulnone\ulc0\b0\kerning0\accnone\charscalex100\sl240\slmult1\qj{\rtlch\dbch\af13\afs20\ai\hich\af7 \ltrch\cs15\fs20\i\loch\f7
+    }{\rtlch\dbch\af13\afs20\ai\hich\af7 \ltrch\cs15\fs20\i\loch\f7\loch
 Vice President}
-\par \pard\plain \s46\hich\af4\dbch\af4\langfe1033\dbch\af0\afs22\alang1025\ai0\ab0\sl252\slmult1\hyphpar0\ql\widctlpar\aspalpha\faroman\sb0\sa160\ltrpar\scaps0\caps0\cf0\outl0\strike0\loch\f4\fs22\expnd0\expndtw0\lang1033\i0\ulnone\ulc0\b0\kerning0\accnone\charscalex100\sl240\slmult1\qj\sb240\sa160{\rtlch\ab\hich\af5 \ltrch\cs15\b\loch\f5\loch
-House of General Science at RIT}{\rtlch\hich\af5 \ltrch\cs15\loch\f5\loch
+\par \pard\plain \s46\dbch\af10\langfe1025\dbch\af12\afs22\ai0\ab0\alang1081\sl252\slmult1\ql\widctlpar\hyphpar0\faroman\sb0\sa160\ltrpar\scaps0\caps0\cf0\outl0\strike0\loch\f5\fs22\expnd0\expndtw0\lang1033\i0\ulnone\ulc0\b0\kerning0\accnone\charscalex100\sl240\slmult1\qj\sb240\sa160{\rtlch\dbch\af13\ab\hich\af7 \ltrch\cs15\b\loch\f7\loch
+House of General Science at RIT}{\rtlch\dbch\af13\hich\af7 \ltrch\cs15\loch\f7\loch
  (April 2019 \u8211\'96 Present)}
-\par \pard\plain \s46\hich\af4\dbch\af4\langfe1033\dbch\af0\afs22\alang1025\ai0\ab0\sl252\slmult1\hyphpar0\ql\widctlpar\aspalpha\faroman\sb0\sa160\ltrpar\scaps0\caps0\cf0\outl0\strike0\loch\f4\fs22\expnd0\expndtw0\lang1033\i0\ulnone\ulc0\b0\kerning0\accnone\charscalex100\sl240\slmult1\qj\sb0\sa46{\rtlch\afs20\ai\hich\af5 \ltrch\fs20\i\loch\f5
-    }{\rtlch\afs20\ai\hich\af5 \ltrch\fs20\i\loch\f5\loch
+\par \pard\plain \s46\dbch\af10\langfe1025\dbch\af12\afs22\ai0\ab0\alang1081\sl252\slmult1\ql\widctlpar\hyphpar0\faroman\sb0\sa160\ltrpar\scaps0\caps0\cf0\outl0\strike0\loch\f5\fs22\expnd0\expndtw0\lang1033\i0\ulnone\ulc0\b0\kerning0\accnone\charscalex100\sl240\slmult1\qj\sb0\sa46{\rtlch\dbch\af13\afs20\ai\hich\af7 \ltrch\fs20\i\loch\f7
+    }{\rtlch\dbch\af13\afs20\ai\hich\af7 \ltrch\fs20\i\loch\f7\loch
 Technological Advisor}
-\par \pard\plain \s47\sl252\slmult1\hyphpar0\li720\ri0\lin720\rin0\fi0{\listtext\pard\plain \hich\af1\loch\f1 \u61623\'3f\tab}\ilvl0\ls1 \li1080\ri0\lin1080\rin0\fi-360\sl240\slmult1\qj{\rtlch\afs28\hich\af5 \ltrch\cs15\fs28\loch\f5
- }{\rtlch\hich\af5 \ltrch\cs15\loch\f5\loch
-Overhauled the website backend to improve the ease of maintenance}
-\par \pard\plain \s46\hich\af4\dbch\af4\langfe1033\dbch\af0\afs22\alang1025\ai0\ab0\sl252\slmult1\hyphpar0\ql\widctlpar\aspalpha\faroman\sb0\sa160\ltrpar\scaps0\caps0\cf0\outl0\strike0\loch\f4\fs22\expnd0\expndtw0\lang1033\i0\ulnone\ulc0\b0\kerning0\accnone\charscalex100\sl240\slmult1\qj\sb240\sa160{\rtlch\ab\hich\af5 \ltrch\cs15\b\loch\f5\loch
-MACOM Technology Solutions}{\rtlch\hich\af5 \ltrch\cs15\loch\f5\loch
- }{\rtlch\afs20\hich\af5 \ltrch\cs15\fs20\loch\f5\loch
+\par \pard\plain \s47\dbch\af10\langfe1025\dbch\af12\afs22\ai0\ab0\sl-252\slmult0\ql\widctlpar\hyphpar0\faroman\li720\ri0\lin720\rin0\fi0\sb0\sa0\ltrpar\scaps0\caps0\cf0\outl0\strike0\loch\f5\fs22\expnd0\expndtw0\lang1033\i0\ulnone\ulc0\b0\kerning0\accnone\charscalex100{\listtext\pard\plain  \u61623\'3f\tab}\ilvl0\ls1 \li1080\ri0\lin1080\rin0\fi-360\sl240\slmult1\qj{\rtlch\dbch\af13\hich\af7 \ltrch\cs15\loch\f7\loch
+O}{\rtlch\dbch\af13\hich\af7 \ltrch\cs15\loch\f7\loch
+verhauled the website backend to improve the ease of maintenance}
+\par \pard\plain \s47\dbch\af10\langfe1025\dbch\af12\afs22\ai0\ab0\sl-252\slmult0\ql\widctlpar\hyphpar0\faroman\li720\ri0\lin720\rin0\fi0\sb0\sa0\ltrpar\scaps0\caps0\cf0\outl0\strike0\loch\f5\fs22\expnd0\expndtw0\lang1033\i0\ulnone\ulc0\b0\kerning0\accnone\charscalex100{\listtext\pard\plain  \u61623\'3f\tab}\ilvl0\ls1 \li1080\ri0\lin1080\rin0\fi-360\sl240\slmult1\qj{\rtlch\dbch\af13\hich\af7 \ltrch\cs15\loch\f7\loch
+Created and maintained a public changelog for the primary communication channels}
+\par \pard\plain \s46\dbch\af10\langfe1025\dbch\af12\afs22\ai0\ab0\alang1081\sl252\slmult1\ql\widctlpar\hyphpar0\faroman\sb0\sa160\ltrpar\scaps0\caps0\cf0\outl0\strike0\loch\f5\fs22\expnd0\expndtw0\lang1033\i0\ulnone\ulc0\b0\kerning0\accnone\charscalex100\sl240\slmult1\qj\sb240\sa160{\rtlch\dbch\af13\ab\hich\af7 \ltrch\cs15\b\loch\f7\loch
+MACOM Technology Solutions}{\rtlch\dbch\af13\hich\af7 \ltrch\cs15\loch\f7\loch
+ }{\rtlch\dbch\af13\afs20\hich\af7 \ltrch\cs15\fs20\loch\f7\loch
 (June 2017 \u8211\'96 August 2017, December 2017 \u8211\'96 January 2018, May 2018 \u8211\'96 August 2018)}
-\par \pard\plain \s46\hich\af4\dbch\af4\langfe1033\dbch\af0\afs22\alang1025\ai0\ab0\sl252\slmult1\hyphpar0\ql\widctlpar\aspalpha\faroman\sb0\sa160\ltrpar\scaps0\caps0\cf0\outl0\strike0\loch\f4\fs22\expnd0\expndtw0\lang1033\i0\ulnone\ulc0\b0\kerning0\accnone\charscalex100\sl240\slmult1\qj\sb0\sa46{\rtlch\afs20\ai\hich\af5 \ltrch\fs20\i\loch\f5
-    }{\rtlch\afs20\ai\hich\af5 \ltrch\fs20\i\loch\f5\loch
+\par \pard\plain \s46\dbch\af10\langfe1025\dbch\af12\afs22\ai0\ab0\alang1081\sl252\slmult1\ql\widctlpar\hyphpar0\faroman\sb0\sa160\ltrpar\scaps0\caps0\cf0\outl0\strike0\loch\f5\fs22\expnd0\expndtw0\lang1033\i0\ulnone\ulc0\b0\kerning0\accnone\charscalex100\sl240\slmult1\qj\sb0\sa46{\rtlch\dbch\af13\afs20\ai\hich\af7 \ltrch\fs20\i\loch\f7
+    }{\rtlch\dbch\af13\afs20\ai\hich\af7 \ltrch\fs20\i\loch\f7\loch
 Laboratory Technician}
-\par \pard\plain \s47\sl252\slmult1\hyphpar0\li720\ri0\lin720\rin0\fi0{\listtext\pard\plain \hich\af1\loch\f1 \u61623\'3f\tab}\ilvl0\ls2 \li1080\ri0\lin1080\rin0\fi-360\sl240\slmult1\qj{\rtlch\hich\af5 \ltrch\loch\f5\loch
+\par \pard\plain \s47\dbch\af10\langfe1025\dbch\af12\afs22\ai0\ab0\sl-252\slmult0\ql\widctlpar\hyphpar0\faroman\li720\ri0\lin720\rin0\fi0\sb0\sa0\ltrpar\scaps0\caps0\cf0\outl0\strike0\loch\f5\fs22\expnd0\expndtw0\lang1033\i0\ulnone\ulc0\b0\kerning0\accnone\charscalex100{\listtext\pard\plain  \u61623\'3f\tab}\ilvl0\ls2 \li1080\ri0\lin1080\rin0\fi-360\sl240\slmult1\qj{\rtlch\dbch\af13\hich\af7 \ltrch\loch\f7\loch
 Operated scanning laser microscope measurement system to assess failures to improve yield}
-\par \pard\plain \s47\sl252\slmult1\hyphpar0\li720\ri0\lin720\rin0\fi0{\listtext\pard\plain \hich\af1\loch\f1 \u61623\'3f\tab}\ilvl0\ls2 \li1080\ri0\lin1080\rin0\fi-360\sl240\slmult1\qj{\rtlch\hich\af5 \ltrch\loch\f5\loch
+\par \pard\plain \s47\dbch\af10\langfe1025\dbch\af12\afs22\ai0\ab0\sl-252\slmult0\ql\widctlpar\hyphpar0\faroman\li720\ri0\lin720\rin0\fi0\sb0\sa0\ltrpar\scaps0\caps0\cf0\outl0\strike0\loch\f5\fs22\expnd0\expndtw0\lang1033\i0\ulnone\ulc0\b0\kerning0\accnone\charscalex100{\listtext\pard\plain  \u61623\'3f\tab}\ilvl0\ls2 \li1080\ri0\lin1080\rin0\fi-360\sl240\slmult1\qj{\rtlch\dbch\af13\hich\af7 \ltrch\loch\f7\loch
 Analyzed and compiled acquired data for further observation}
-\par \pard\plain \s47\sl252\slmult1\hyphpar0\li720\ri0\lin720\rin0\fi0{\listtext\pard\plain \hich\af1\loch\f1 \u61623\'3f\tab}\ilvl0\ls2 \li1080\ri0\lin1080\rin0\fi-360\sl240\slmult1\qj{\rtlch\hich\af5 \ltrch\loch\f5\loch
+\par \pard\plain \s47\dbch\af10\langfe1025\dbch\af12\afs22\ai0\ab0\sl-252\slmult0\ql\widctlpar\hyphpar0\faroman\li720\ri0\lin720\rin0\fi0\sb0\sa0\ltrpar\scaps0\caps0\cf0\outl0\strike0\loch\f5\fs22\expnd0\expndtw0\lang1033\i0\ulnone\ulc0\b0\kerning0\accnone\charscalex100{\listtext\pard\plain  \u61623\'3f\tab}\ilvl0\ls2 \li1080\ri0\lin1080\rin0\fi-360\sl240\slmult1\qj{\rtlch\dbch\af13\hich\af7 \ltrch\loch\f7\loch
 Assisted in writing a standard operating procedure for the scanning laser microscope}
-\par \pard\plain \s46\hich\af4\dbch\af4\langfe1033\dbch\af0\afs22\alang1025\ai0\ab0\sl252\slmult1\hyphpar0\ql\widctlpar\aspalpha\faroman\sb0\sa160\ltrpar\scaps0\caps0\cf0\outl0\strike0\loch\f4\fs22\expnd0\expndtw0\lang1033\i0\ulnone\ulc0\b0\kerning0\accnone\charscalex100\sl240\slmult1\qj\sb240\sa160{\rtlch\ab\hich\af5 \ltrch\cs15\b\loch\f5\loch
-Five Rivers Council }{\rtlch\hich\af5 \ltrch\cs15\loch\f5\loch
+\par \pard\plain \s46\dbch\af10\langfe1025\dbch\af12\afs22\ai0\ab0\alang1081\sl252\slmult1\ql\widctlpar\hyphpar0\faroman\sb0\sa160\ltrpar\scaps0\caps0\cf0\outl0\strike0\loch\f5\fs22\expnd0\expndtw0\lang1033\i0\ulnone\ulc0\b0\kerning0\accnone\charscalex100\sl240\slmult1\qj\sb240\sa160{\rtlch\dbch\af13\ab\hich\af7 \ltrch\cs15\b\loch\f7\loch
+Five Rivers Council }{\rtlch\dbch\af13\hich\af7 \ltrch\cs15\loch\f7\loch
 (Summers June 2014 \u8211\'96 August 2016)}
-\par \pard\plain \s46\hich\af4\dbch\af4\langfe1033\dbch\af0\afs22\alang1025\ai0\ab0\sl252\slmult1\hyphpar0\ql\widctlpar\aspalpha\faroman\sb0\sa160\ltrpar\scaps0\caps0\cf0\outl0\strike0\loch\f4\fs22\expnd0\expndtw0\lang1033\i0\ulnone\ulc0\b0\kerning0\accnone\charscalex100\sl240\slmult1\qj\sb0\sa0{\rtlch\afs20\hich\af5 \ltrch\cs15\fs20\loch\f5
-    }{\rtlch\afs20\ai\hich\af5 \ltrch\cs15\fs20\i\loch\f5\loch
+\par \pard\plain \s46\dbch\af10\langfe1025\dbch\af12\afs22\ai0\ab0\alang1081\sl252\slmult1\ql\widctlpar\hyphpar0\faroman\sb0\sa160\ltrpar\scaps0\caps0\cf0\outl0\strike0\loch\f5\fs22\expnd0\expndtw0\lang1033\i0\ulnone\ulc0\b0\kerning0\accnone\charscalex100\sl240\slmult1\qj\sb0\sa0{\rtlch\dbch\af13\afs20\hich\af7 \ltrch\cs15\fs20\loch\f7
+    }{\rtlch\dbch\af13\afs20\ai\hich\af7 \ltrch\cs15\fs20\i\loch\f7\loch
 Counselor in Training, Clerk, Kitchen Aide}
-\par \pard\plain \s47\sl252\slmult1\hyphpar0\li720\ri0\lin720\rin0\fi0{\listtext\pard\plain \hich\af1\loch\f1 \u61623\'3f\tab}\ilvl0\ls3 \li1080\ri0\lin1080\rin0\fi-360\qj{\rtlch\hich\af5 \ltrch\loch\f5\loch
+\par \pard\plain \s47\dbch\af10\langfe1025\dbch\af12\afs22\ai0\ab0\sl-252\slmult0\ql\widctlpar\hyphpar0\faroman\li720\ri0\lin720\rin0\fi0\sb0\sa0\ltrpar\scaps0\caps0\cf0\outl0\strike0\loch\f5\fs22\expnd0\expndtw0\lang1033\i0\ulnone\ulc0\b0\kerning0\accnone\charscalex100{\listtext\pard\plain  \u61623\'3f\tab}\ilvl0\ls3 \li1080\ri0\lin1080\rin0\fi-360\sl252\slmult1\qj{\rtlch\dbch\af13\hich\af7 \ltrch\loch\f7\loch
 Provided support for camp counselors, guests, and visitors}
-\par \pard\plain \s47\sl252\slmult1\hyphpar0\li720\ri0\lin720\rin0\fi0{\listtext\pard\plain \hich\af1\loch\f1 \u61623\'3f\tab}\ilvl0\ls3 \li1080\ri0\lin1080\rin0\fi-360\qj{\rtlch\hich\af5 \ltrch\loch\f5\loch
+\par \pard\plain \s47\dbch\af10\langfe1025\dbch\af12\afs22\ai0\ab0\sl-252\slmult0\ql\widctlpar\hyphpar0\faroman\li720\ri0\lin720\rin0\fi0\sb0\sa0\ltrpar\scaps0\caps0\cf0\outl0\strike0\loch\f5\fs22\expnd0\expndtw0\lang1033\i0\ulnone\ulc0\b0\kerning0\accnone\charscalex100{\listtext\pard\plain  \u61623\'3f\tab}\ilvl0\ls3 \li1080\ri0\lin1080\rin0\fi-360\sl252\slmult1\qj{\rtlch\dbch\af13\hich\af7 \ltrch\loch\f7\loch
 Provided administrative support to Camp Director}
-\par \pard\plain \s47\sl252\slmult1\hyphpar0\li720\ri0\lin720\rin0\fi0{\listtext\pard\plain \hich\af1\loch\f1 \u61623\'3f\tab}\ilvl0\ls3 \li1080\ri0\lin1080\rin0\fi-360\qj{\rtlch\hich\af5 \ltrch\loch\f5\loch
+\par \pard\plain \s47\dbch\af10\langfe1025\dbch\af12\afs22\ai0\ab0\sl-252\slmult0\ql\widctlpar\hyphpar0\faroman\li720\ri0\lin720\rin0\fi0\sb0\sa0\ltrpar\scaps0\caps0\cf0\outl0\strike0\loch\f5\fs22\expnd0\expndtw0\lang1033\i0\ulnone\ulc0\b0\kerning0\accnone\charscalex100{\listtext\pard\plain  \u61623\'3f\tab}\ilvl0\ls3 \li1080\ri0\lin1080\rin0\fi-360\sl252\slmult1\qj{\rtlch\dbch\af13\hich\af7 \ltrch\loch\f7\loch
 Refilled inventory in the kitchen when necessary}
-\par \pard\plain \s47\sl252\slmult1\hyphpar0\li720\ri0\lin720\rin0\fi0{\listtext\pard\plain \hich\af1\loch\f1 \u61623\'3f\tab}\ilvl0\ls3 \li1080\ri0\lin1080\rin0\fi-360\qj{\rtlch\hich\af5 \ltrch\cs15\loch\f5\loch
+\par \pard\plain \s47\dbch\af10\langfe1025\dbch\af12\afs22\ai0\ab0\sl-252\slmult0\ql\widctlpar\hyphpar0\faroman\li720\ri0\lin720\rin0\fi0\sb0\sa0\ltrpar\scaps0\caps0\cf0\outl0\strike0\loch\f5\fs22\expnd0\expndtw0\lang1033\i0\ulnone\ulc0\b0\kerning0\accnone\charscalex100{\listtext\pard\plain  \u61623\'3f\tab}\ilvl0\ls3 \li1080\ri0\lin1080\rin0\fi-360\sl252\slmult1\qj{\rtlch\dbch\af13\hich\af7 \ltrch\cs15\loch\f7\loch
 Maintained cleanliness in the kitchen and dining hall}
 \par }

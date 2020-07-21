@@ -16,13 +16,14 @@ Regents Diploma with Honors
 
 '''Experience'''
 
-'''House of General Science at RIT''' (December 2019 - Present)
+'''House of General Science at RIT''' (December 2019 – February 2020)
 
 ''Vice President''
 
 '''House of General Science at RIT''' (April 2019 – Present)
 
 ''Technological Advisor''* Overhauled the website backend to improve the ease of maintenance
+* Created and maintained a public changelog for the primary communication channels
 
 
 
