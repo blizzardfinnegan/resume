@@ -19,6 +19,7 @@
 \usepackage[parfill]{parskip}       % Do not indent paragraphs
 \usepackage{array}                  % required for boldface tabular columns
 \usepackage{ifthen}
+\usepackage{enumitem}
 
 \nofiles                            % .aux files are not needed for resumes
 \pagestyle{empty}                   % resumes do not need page numbers
@@ -31,7 +32,7 @@
 
 \def \addressSep {$\diamond$}         % Set default address seperator
 
-% One or two address lines can be specified 
+% One or two address lines can be specified
 \let \@addressone \relax
 \let \@addresstwo \relax
 
@@ -39,10 +40,10 @@
 	\def \address #1{
 		\@ifundefined{@addresstwo}{
     \def \@addresstwo {#1}
-  
+
 		}{
     \def \@addressone {#1}
-  
+
 		}
 
 	}
@@ -51,6 +52,8 @@
 	\def \printaddress #1{
   \begingroup
     \def \\ {\addressSep\ }
+    \setlength\abovedisplayskip{0pt}
+    \setlength\belowdisplayskip{0pt}
     \centerline{#1}
   \endgroup
   \par
@@ -61,10 +64,9 @@
 % \printname is used to print the name as a page header
 \def \printname {
   \begingroup
-  \begin{center}
-    \hfil{\MakeUppercase{\namesize\bf \@name}}\hfil
+    {\MakeUppercase{\namesize\bf \@name}}
+    \hfill BlizzardFinnegan@gmail.com\\
     \nameskip
-    \end{center}
   \endgroup
 
 }
@@ -94,7 +96,7 @@
   \hrule
   \begin{list}{}{
     \setlength{\leftmargin}{1.5em}
-  
+
   }
   \item[]
 
@@ -113,7 +115,7 @@
   \ifthenelse{\equal{#3}{}}{}{
   \\
   {\em #3}                 \hfill                  {\em #4}% Stop a space
-  
+
   }\smallskip
   % \cdot used for bullets, items non-indented
   \begin{list}{$\cdot$}{\leftmargin=0em}
